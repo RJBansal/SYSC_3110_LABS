@@ -42,6 +42,6 @@ public class AddressBook {
 		list1.addBuddy(bd3);
 		list1.removeBuddy(bd1);
 		
-		System.out.println("Updated!");
+		System.out.println("Updated Again!");
 	}
 }
