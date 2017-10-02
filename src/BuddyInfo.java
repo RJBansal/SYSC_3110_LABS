@@ -2,6 +2,12 @@
 public class BuddyInfo {
 	private String address, name, phonenumber;
 	
+	public BuddyInfo(String address, String name, String phonenumber) {
+		this.setAddress(address);
+		this.setName(name);
+		this.setPhonenumber(phonenumber);
+	}
+	
 	public String getAddress() {
 		return address;
 	}
