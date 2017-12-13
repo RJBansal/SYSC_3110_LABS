@@ -1,0 +1,21 @@
+<AddressBook>
+	<BuddyInfo>
+		<name>Joe</name>
+		<address>Carleton</address>
+		<phonenumber>613-9998888</phonenumber>
+		<age>19</age>
+	</BuddyInfo>
+	<BuddyInfo>
+		<name>Matt</name>
+		<address>Guelph</address>
+		<phonenumber>613-8889999</phonenumber>
+		<age>20</age>
+	</BuddyInfo>
+	<BuddyInfo>
+		<name>John</name>
+		<address>Toronto</address>
+		<phonenumber>613-7774444</phonenumber>
+		<age>13</age>
+	</BuddyInfo>
+</AddressBook>
+
